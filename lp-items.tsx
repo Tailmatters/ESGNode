@@ -1,7 +1,7 @@
 export const LP_GRID_ITEMS = [
   {
-    title: "Next.js",
-    description: "Fast by default, with config optimized for performance.",
+    title: "GHG",
+    description: "Greenhouse Gas Emissions",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -20,8 +20,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Tailwind CSS",
-    description: "A utility-first CSS framework for rapid UI development.",
+    title: "Biodiversity Impact",
+    description: "How is your company impacting biodiversity",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -40,8 +40,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "ESlint & Prettier",
-    description: "For clean, consistent, and error-free code.",
+    title: "Air pollutant emissions",
+    description: "Measure air pollutants emanating from your company operations",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -56,8 +56,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Extremely strict TypeScript",
-    description: "With `ts-reset` library for ultimate type safety.",
+    title: "Energy Efficiency",
+    description: "Use energy more efficiently",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -76,8 +76,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Bundle analyzer plugin",
-    description: "Keep an eye on your bundle size.",
+    title: "Gender Inequity",
+    description: "Ensuring gender parity",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"

@@ -14,13 +14,13 @@ export default function Web() {
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta name="twitter:card" content="summary_large_image" />
-        <title>Next.js Enterprise Boilerplate</title>
+        <title>ESG Node - Your Partner For Driving Triple Bottomline</title>
       </Head>
       <section className="bg-white dark:bg-gray-900">
         <div className="mx-auto grid max-w-screen-xl px-4 py-8 text-center lg:py-16">
           <div className="mx-auto place-self-center">
             <h1 className="mb-4 max-w-2xl text-4xl font-extrabold leading-none tracking-tight dark:text-white md:text-5xl xl:text-6xl">
-              Next.js Enterprise Boilerplate
+            ESG Node - Your Partner For Driving Triple Bottomline
             </h1>
             <p className="mb-6 max-w-2xl font-light text-gray-500 dark:text-gray-400 md:text-lg lg:mb-8 lg:text-xl">
               Trying to build a world class ESG Product for the benefit of Indian listed companies. Contact vithal@ctrlspend.com for more details.
