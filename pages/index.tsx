@@ -23,9 +23,7 @@ export default function Web() {
               Next.js Enterprise Boilerplate
             </h1>
             <p className="mb-6 max-w-2xl font-light text-gray-500 dark:text-gray-400 md:text-lg lg:mb-8 lg:text-xl">
-              Jumpstart your ESG project with our feature-packed, high-performance Next.js boilerplate!
-              Experience rapid UI development, AI-powered code reviews, and an extensive suite of tools for a smooth and
-              enjoyable development process.
+              Trying to build a world class ESG Product for the benefit of Indian listed companies. Contact vithal@ctrlspend.com for more details.
             </p>
             <Button href="https://github.com/Blazity/next-enterprise" className="mr-3">
               Get started
