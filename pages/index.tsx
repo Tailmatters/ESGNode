@@ -6,7 +6,7 @@ export default function Web() {
   return (
     <>
       <Head>
-        <meta property="og:url" content="https://next-enterprise.vercel.app/" />
+        <meta property="og:url" content="https://ctrlspend.com" />
         <meta
           property="og:image"
           content="https://raw.githubusercontent.com/Blazity/next-enterprise/main/project-logo.png"
@@ -26,13 +26,13 @@ export default function Web() {
               Trying to build a world class ESG Product for the benefit of Indian listed companies. Contact vithal@ctrlspend.com for more details.
             </p>
             <Button href="https://github.com/Blazity/next-enterprise" className="mr-3">
-              Get started
+              Learn More
             </Button>
             <Button
               href="https://vercel.com/new/git/external?repository-url=https://github.com/Blazity/next-enterprise"
               intent="secondary"
             >
-              Deploy Now
+              Try Now
             </Button>
           </div>
         </div>
