@@ -20,7 +20,7 @@ export default function Web() {
       </Head>
       <div className="flex flex-col border-2 border-green-500 h-screen w-screen">
       <TopNavigation /> 
-      <div className="flex border-2 border-blue-500 flex-1">
+      <div className="flex border-2 border-blue-500 flex-auto">
       <SideNavigation />
       <section className="bg-white dark:bg-gray-900">
         <div className="mx-auto grid max-w-screen-xl px-4 py-8 text-center lg:py-16">
