@@ -19,9 +19,9 @@ export default function Web() {
         <title>ESG Node - Your Partner For Driving Triple Bottomline</title>
       </Head>
       <div className="flex flex-col border-2 border-green-500 h-screen w-screen">
-      
+      <TopNavigation /> 
       <div className="flex border-2 border-blue-500 flex-1">
-      
+      <SideNavigation />
       <section className="bg-white dark:bg-gray-900">
         <div className="mx-auto grid max-w-screen-xl px-4 py-8 text-center lg:py-16">
           <div className="mx-auto place-self-center">
@@ -43,6 +43,7 @@ export default function Web() {
           </div>
         </div>
       </section>
+      </div>
       </div>
       <section className="bg-white dark:bg-gray-900">
         <div className="mx-auto max-w-screen-xl px-4 py-8 sm:py-16 lg:px-6">
