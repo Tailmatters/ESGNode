@@ -1,6 +1,7 @@
 import Head from "next/head"
 import { Button } from "components/Button/Button"
 import { LP_GRID_ITEMS } from "../lp-items"
+import SideNavigation from "./sideNavigation"
 
 export default function Web() {
   return (
@@ -17,9 +18,9 @@ export default function Web() {
         <title>ESG Node - Your Partner For Driving Triple Bottomline</title>
       </Head>
       <div className="flex flex-col border-2 border-green-500 h-screen w-screen">
-      <topNavigation />
+      <TopNavigation />
       <div className="flex border-2 border-blue-500 flex-1">
-      <sideNavigation />
+      <SideNavigation />
       <section className="bg-white dark:bg-gray-900">
         <div className="mx-auto grid max-w-screen-xl px-4 py-8 text-center lg:py-16">
           <div className="mx-auto place-self-center">
