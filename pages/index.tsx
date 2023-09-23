@@ -16,7 +16,7 @@ export default function Web() {
         <meta name="twitter:card" content="summary_large_image" />
         <title>ESG Node - Your Partner For Driving Triple Bottomline</title>
       </Head>
-      <div className="border-2 border-red-500" h-screen>
+      <div className="border-2 border-red-500 h-screen">
       <section className="bg-white dark:bg-gray-900">
         <div className="mx-auto grid max-w-screen-xl px-4 py-8 text-center lg:py-16">
           <div className="mx-auto place-self-center">
