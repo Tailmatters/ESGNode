@@ -2,6 +2,7 @@ import Head from "next/head"
 import { Button } from "components/Button/Button"
 import { LP_GRID_ITEMS } from "../lp-items"
 import SideNavigation from "./sideNavigation"
+import TopNavigation from "./topNavigation"
 
 export default function Web() {
   return (
