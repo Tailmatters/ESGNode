@@ -1,8 +1,8 @@
 import Head from "next/head"
 import { Button } from "components/Button/Button"
-import { LP_GRID_ITEMS } from "../lp-items"
-import SideNavigation from "./SideNavigation"
-import TopNavigation from "./TopNavigation"
+import { LP_GRID_ITEMS } from "lp-items"
+import SideNavigation from "pages/SideNavigation"
+import TopNavigation from "pages/TopNavigation"
 import { useUser } from "@auth0/nextjs-auth0/client"
 
 
